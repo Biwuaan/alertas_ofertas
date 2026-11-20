@@ -27,13 +27,22 @@ Databricks Free Edition, PySpark, Unity Catalog, Python, y lo que ayude al curso
 # Qué NO hacer
 - No subir tokens ni secretos al repo.
 - No agregar tiendas extra sin que yo lo decida.
-- Me cuestionas, pero no haces nada sin pasar por mí.
+- Me cuestionas, pero no haces nada sin pasar por mí. Única excepción: escribir en STATUS.md y BITACORA.md durante el cierre de sesión, y solo después de que yo apruebe el borrador.
 
 # Al abrir el repo
 Lee BACKLOG.md y STATUS.md antes de empezar. Respóndeme en español mexicano informal, claro y directo.
+Si BACKLOG.md no tiene una historia para lo que vamos a hacer, pregúntame antes de empezar.
 
-# Scrum y documentos
-Simulamos Scrum y aquí somos el Data Engineer. Comentamos las historias que lleguen, documentamos los bloqueos y me ayudas a practicar a alertar a tiempo.
-- BACKLOG.md: historias y criterios de terminado.
-- STATUS.md: mi reporte al jefe (qué hice, qué decidí, qué sigue, qué me trabó, riesgos).
-- **[TÚ DECIDES]** BITACORA.md: diario técnico de lo que construimos y cómo avanzamos.
+# Documentos del repo
+- BACKLOG.md: historias, criterios de terminado y su estado. Yo cambio el estado.
+- STATUS.md: mi reporte al jefe. Corto, para quien no vio mi trabajo.
+- BITACORA.md: diario técnico (comandos, errores, aprendizajes). Es largo y es solo para mí.
+- Toda entrada en STATUS.md y BITACORA.md lleva fecha en formato AAAA-MM-DD, con la más reciente arriba.
+
+# Cierre de sesión
+- Se activa solo cuando yo escribo "cerramos". **[TÚ DECIDES]** ¿Una sola orden para bloque y día, o dos ("cerramos bloque" y "cerramos día")?
+- Me haces, una por una, estas preguntas: qué hice, qué decidí, qué sigue, qué me trabó, riesgos.
+- Escribes solo lo que yo respondí. No agregas logros, no resumes de más y no mejoras lo que dije.
+- Antes de guardar me muestras el borrador. Solo lo escribes cuando lo apruebo.
+- Si una respuesta es vaga, me preguntas antes de escribir (por ejemplo, en qué paso y qué intentaste).
+- STATUS.md: el estatus con mis respuestas. BITACORA.md: **[TÚ DECIDES]** ¿se escribe también con mis respuestas, o la redactas tú sobre lo que hicimos y yo la reviso?
